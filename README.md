@@ -30,21 +30,7 @@ AlgoSearch is a dynamic search engine designed to streamline your journey throug
 - `src/`: Contains the frontend code built with Next.js.
 - `server/`: Houses the Express backend that powers the search engine.
 - `scripts/`: Includes scripts for data retrieval using Selenium.
-
-## Live Demo
-
-Check out the live version of AlgoSearch at [https://algosearchbeta.netlify.app/](https://algosearchbeta.netlify.app/).
-
-## Contributions
-
-Contributions are welcome! Whether you're a developer, designer, or algorithm enthusiast, feel free to contribute to AlgoSearch.
-
-## Feedback
-
-Got feedback or suggestions? We'd love to hear from you. Open an issue or reach out to us.
-
+- 
 ## Acknowledgments
 
 AlgoSearch was developed for the AlgoZenith WebDev Hackathon. Special thanks to the organizers and fellow participants for the inspiration and support.
-
-Let's solve algorithms with ease using AlgoSearch! Happy hacking! 🌟
